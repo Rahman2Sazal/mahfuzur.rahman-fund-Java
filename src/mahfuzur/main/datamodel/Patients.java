@@ -66,7 +66,6 @@ public class Patients {
         this.pat_subscription_date = pat_subscription_date;
     }
 
-    //pat_num_HC;pat_lastname;pat_firstname;pat_address;pat_tel;pat_insurance_id;pat_subscription_date
 
 
 

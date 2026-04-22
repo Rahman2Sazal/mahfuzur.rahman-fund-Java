@@ -2,8 +2,12 @@ package mahfuzur.main.datamodel;
 
 public class Insurance {
 
+    private static final Object STR = "name";
     private Integer insurance_Id;
     private String insurance_Name;
+
+    public Insurance(String s) {
+    }
 
     public Integer getInsurance_Id() {
         return insurance_Id;
@@ -23,6 +27,4 @@ public class Insurance {
 
 
 
-
 }
-
